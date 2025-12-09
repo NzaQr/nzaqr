@@ -9,8 +9,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/nazarenoquiroga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nazarenoquiroga" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nzaqr&show_icons=true&locale=en&layout=compact" alt="nzaqr" /></p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nzaqr&title=Commit,Repositories&margin-w=15" alt="nzaqr" /></a> </p>
