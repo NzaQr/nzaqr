@@ -3,7 +3,7 @@
 
 - Currently building apps and websites with passion at [Bewise](https://www.bewise.com.es/)
 
-- 📫 Reach me **naz.quiroga@gmail.com**
+- Check my portfolio https://nzqr.dev/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
